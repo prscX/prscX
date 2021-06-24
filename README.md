@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![](https://github.com/prscX/prscX/blob/main/background.png)
 
-### Pranav here 👋
+### Hey! Pranav here 👋
 
 - 🔭 I’m currently working as a Technical Director at [MetricStream](https://github.com/MetricStream)
    - Building the next-generation of cross platform GRC mobile app experience
