@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/prscX/prscX/blob/main/_background.png)
+![](https://github.com/prscX/prscX/blob/main/background.png)
