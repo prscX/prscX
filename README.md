@@ -22,6 +22,6 @@ Here are some ideas to get you started:
    - Focus on building generic and scalable infrastructure/platform which can be leveraged to build mobile apps using React Native
    - I open-source almost everything I can, and I try to reply everyone needing help using my contributions
 - 💬 Ask me about building scalable mobile apps, React/React Native
-- 📫 How to reach me: DMs on [PRANAVCHAUHAN01@GMAIL.COM](mailto:pranavchauhan01@gmail.com)
+- 📫 How to reach me: DMs on my [GMAIL](mailto:pranavchauhan01@gmail.com)
 
 
