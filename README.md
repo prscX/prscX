@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Technical Director at [MetricStream](https://github.com/MetricStream)
    - Building the next-generation of cross platform GRC mobile app experience
    - Focus on building generic and scalable infrastructure/platform which can be leveraged to build mobile apps using React Native
-   - I open-source almost everything I develop, and I try to reply everyone needing help using my contributions
+   - I open-source almost everything I develop and try to reply everyone needing help using my contributions
 - 💬 Ask me about building scalable mobile apps, React/React Native
 - 📫 How to reach me: DMs on my [GMAIL](mailto:pranavchauhan01@gmail.com)
 
