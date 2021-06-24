@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github.com/prscX/prscX/blob/main/background.png)
+
+### Pranav here 👋
+
+- 🔭 I’m currently working as a Technical Director at [MetricStream](https://github.com/MetricStream)
+   - Building the next-generation of cross platform GRC mobile app experience
+   - Focus on building generic and scalable infrastructure/platform which can be leveraged build mobile apps using React Native
+   - I open-source almost everything I can, and I try to reply everyone needing help using my contributions
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about building scalable mobile apps, React/React Native
+- 📫 How to reach me: DMs on [Gmail](pranavchauhan01@gmail.com)
+
+
