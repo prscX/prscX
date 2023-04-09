@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hey! Pranav here 👋
 
-- 🔭 I’m currently working as a Technical Director at [MetricStream](https://www.metricstream.com)
-   - Building the next-generation of cross platform GRC mobile app experience
+- 🔭 I’m currently working as a Senior Technical Director at [MetricStream](https://www.metricstream.com)
+   - Building the next-generation of cross platform GRC Web & Mobile app experience
    - Focus on building generic and scalable infrastructure/platform which can be leveraged to build mobile apps using React Native
    - I open-source almost everything I develop and try to reply everyone needing help using my contributions
 - 💬 Ask me about building scalable mobile apps, React/React Native
